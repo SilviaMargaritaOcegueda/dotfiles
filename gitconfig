@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = margarita.ocegueda@gmail.com
+	name = Silvia Ocegueda
